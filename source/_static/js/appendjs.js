@@ -1,0 +1,2 @@
+document.querySelector('.left-details').innerHTML+='<div id="beian"><a style="color:black" href="http://beian.miit.gov.cn/">备案号:豫ICP备2025140685号-1</a></div>';
+document.querySelector('.view-this-page').innerHTML+='<a class="muted-link" href="https://creativecommons.org/licenses/by/4.0/" title="View this page"><img width="20" height="20" src="https://img.icons8.com/external-basicons-line-edtgraphics/50/external-cc-signs-basicons-line-edtgraphics.png" alt="external-cc-signs-basicons-line-edtgraphics"/><span class="visually-hidden">View this page</span></a>'
