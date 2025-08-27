@@ -107,33 +107,53 @@
 
 ### 开源镜像站
 
-1. ```python
-   https://pypi.tuna.tsinghua.edu.cn/simple # 清华大学开源软件镜像站
+1. 清华大学开源软件镜像站
+
+   ```
+   https://pypi.tuna.tsinghua.edu.cn/simple # 
    ```
 
-2. ```python
-   https://mirrors.aliyun.com/pypi/simple/ # 阿里云开源镜像站
+2. 阿里云开源镜像站
+
+   ```
+   https://mirrors.aliyun.com/pypi/simple/ # 
    ```
 
-3. ```python
-   https://mirrors.ustc.edu.cn/pypi/simple/ # 中国科学技术大学开源软件镜像
+3. 中国科学技术大学开源软件镜像
+
+   ```
+   https://mirrors.ustc.edu.cn/pypi/simple/ # 
    ```
 
-4. ```python
-   https://repo.huaweicloud.com/repository/pypi/simple/ # 华为云开源镜像站
+4. 华为云开源镜像站
+
+   ```
+   https://repo.huaweicloud.com/repository/pypi/simple/ # 
    ```
 
-5. ```python
-   https://mirrors.cloud.tencent.com/pypi/simple/ # 腾讯软件源
+5. 腾讯软件源
+
    ```
-   
-6. ```python
-   https://mirrors.163.com/pypi/simple/ # 网易开源镜像站
+   https://mirrors.cloud.tencent.com/pypi/simple/ # 
+   ```
+
+6. 网易开源镜像站
+
+   ```
+   https://mirrors.163.com/pypi/simple/ # 
    ```
 
 ## 常用操作
 
 ```
+pip freeze > requirements.txt
+```
+
+```
 pip install sphinx -i https://pypi.tuna.tsinghua.edu.cn/simple 
+```
+
+```
+pip install -r requirements.txt
 ```
 

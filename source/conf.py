@@ -14,7 +14,7 @@ from typing import Any, Dict
 
 
 project = 'playspace'
-copyright = str(date.today().year) + ', x dy' 
+copyright = str(date.today().year) + ' x dy. All rights reserved. ' 
 author = 'x dy'
 
 # -- General configuration ---------------------------------------------------
