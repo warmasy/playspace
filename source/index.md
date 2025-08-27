@@ -6,8 +6,8 @@
 sphinx/index
 code/index
 
-git/index
-pip/index
+待定章节1/index
+待定章节2/index
 
 ```
 
@@ -19,4 +19,4 @@ pip/index
 
 ## 小序
 
-由于使用不够频发，经常性各种忘记操作方法，所以在此做一些简单的记录，省去一些查资料的过程。
+此文档为常用命令文档记录。
