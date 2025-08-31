@@ -1,10 +1,8 @@
-# code
+# hugo
 
 ```{toctree}
 :hidden:
 
-pip
-git
 hugo
 
 ```
