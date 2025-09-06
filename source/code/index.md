@@ -3,8 +3,7 @@
 ```{toctree}
 :hidden:
 
-pip
-git
-hugo
+001-pip
+002-git
 
 ```

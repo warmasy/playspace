@@ -22,13 +22,12 @@ author = 'x dy'
 
 extensions = [
     'sphinx.ext.duration',
-    'myst_parser',
+    'myst_parser',  # markdown解析扩展。
     "furo.sphinxext",
     # External stuff
-    "myst_parser",
-    "sphinx_copybutton",
-    "sphinx_design",
-    "sphinx_inline_tabs",
+    "sphinx_copybutton", # 代码复制按钮。
+    "sphinx_design",    # 是一个用于设计美观、屏幕尺寸响应式网页组件的 Sphinx 扩展
+    "sphinx_inline_tabs",   # 允许在Sphinx文档中创建可切换的标签页。
 ]
 
 source_suffix = {

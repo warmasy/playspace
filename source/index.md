@@ -3,9 +3,9 @@
 ```{toctree}
 :hidden:
 
+code/index
 sphinx/index
 hugo/index
-code/index
 
 待定章节1/index
 待定章节2/index
